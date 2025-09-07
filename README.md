@@ -1,4 +1,4 @@
-# 🎛️ Traffic Light with Face Detection (Arduino + Python)
+# RGB Light with Face Detection (Arduino + Python)
 
 This is a small project that controls an RGB LED connected to an Arduino board using computer vision.  
 A Python script detects faces from the webcam feed and sends commands to the Arduino over Serial.  
