@@ -6,9 +6,9 @@ A Python script detects faces from the webcam feed and sends commands to the Ard
 - ✅ If a **face is detected**, the LED turns **green**.  
 - ❌ If **no face is detected**, the LED turns **red**.  
 
-> ⚠️ This project is based on the tutorial from [Computer Vision Zone](https://www.computervision.zone/courses/computer-vision-arduino-chapter-1/).  
-> All credits go to them — this repo simply collects the code and setup instructions in one place.
-
+> ⚠️ Note: This project was built by following the tutorial from [Computer Vision Zone](https://www.computervision.zone/courses/computer-vision-arduino-chapter-1/).  
+> The code structure is based on their course material, but I went through the process step by step to understand how Python communicates with Arduino.  
+> This repo serves as my learning notes and a reference for anyone who wants to try the same project.
 ---
 ## Video:
 
