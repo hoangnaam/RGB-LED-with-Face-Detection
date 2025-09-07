@@ -23,7 +23,14 @@ https://github.com/user-attachments/assets/14e87eaa-6e79-487b-ab84-29b312ab63d5
 ---
 ## 🔧 Instructions
 
-### Arduino
+### Required components:
+- Arduino UNO R3
+- RGB Module HW-479 ( You can use other modules but make sure to check how to wire and its code )
+- 4 Jumper wires
+
+### Code:
+
+#### Arduino:
 - Arduino IDE (tested with version 2.x)
 - **[CVZone Arduino Library](https://drive.google.com/file/d/1oxaUi1p-jOvNoUtkEo825h8ego9dA22z/view?usp=share_link)**  
   Installation:
@@ -31,7 +38,7 @@ https://github.com/user-attachments/assets/14e87eaa-6e79-487b-ab84-29b312ab63d5
   2. Open Arduino IDE → `Sketch` → `Include Library` → `Add .ZIP Library`.
   3. Select the downloaded file.
 
-### Python
+#### Python:
 Make sure you have **Python 3.7+** installed.
 
 Install the required packages:
