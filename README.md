@@ -10,10 +10,18 @@ A Python script detects faces from the webcam feed and sends commands to the Ard
 > All credits go to them — this repo simply collects the code and setup instructions in one place.
 
 ---
+## Video:
+
+
+https://github.com/user-attachments/assets/14e87eaa-6e79-487b-ab84-29b312ab63d5
 
 ---
+## Schematics (KiCad):
 
-## 🔧 Dependencies
+![Face_Detection_RGBled](https://github.com/user-attachments/assets/3a760816-ea98-450e-9597-0e36619a0f9f)
+
+---
+## 🔧 Instructions
 
 ### Arduino
 - Arduino IDE (tested with version 2.x)
