@@ -36,4 +36,13 @@ Make sure you have **Python 3.7+** installed.
 
 Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install cvzone
+```
+```bash
+pip install opencv-python
+```
+```bash
+pip install mediapipe
+```
+
+
